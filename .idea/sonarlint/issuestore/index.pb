@@ -7,3 +7,7 @@ I
 tests/anomaly-nft.test.ts,a/1/a1163693c01e050311b107a59147bcfe42ded0b7
 P
  contracts/anomaly-reporting.clar,8/9/894e0ef040a96c7c2a7a790c12430fde321592fe
+O
+tests/anomaly-reporting.test.ts,4/1/4107a97b3fcb3e49a33df8a36bc0db8272da0749
+U
+%contracts/collaborative-research.clar,e/4/e49f215cad742a9a98708f3aa26f26f4dd615dc5
